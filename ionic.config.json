@@ -1,0 +1,7 @@
+{
+  "name": "minipos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
