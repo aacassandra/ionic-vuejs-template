@@ -29,3 +29,8 @@ npm-debug.log*
 /platforms
 /plugins
 /www
+
+# Cordova
+/cordova/platforms
+/cordova/plugins
+/public/cordova.js
